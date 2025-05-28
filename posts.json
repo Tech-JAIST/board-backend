@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "たろう",
+    "content": "こんにちは！",
+    "created_at": "2025-05-27T13:31:04.239719"
+  },
+  {
+    "id": 2,
+    "name": "iwamoto",
+    "content": "teast",
+    "created_at": "2025-05-27T14:24:54.645601"
+  },
+  {
+    "id": 3,
+    "name": "test",
+    "content": "test",
+    "created_at": "2025-05-27T14:27:47.952463"
+  },
+  {
+    "id": 4,
+    "name": "iwamoto",
+    "content": "test",
+    "created_at": "2025-05-28T18:47:59.284901"
+  },
+  {
+    "id": 5,
+    "name": "たろう",
+    "content": "テスト",
+    "created_at": "2025-05-28T18:56:37.616534"
+  }
+]
